@@ -1,4 +1,4 @@
-name: addVAE_env
+name: addVAE_env_selena
 channels:
   - conda-forge
 dependencies:
@@ -16,4 +16,4 @@ dependencies:
   - openssl
   - jax=0.2.17
   - ipywidgets
-prefix: addVAE_env
+prefix: addVAE_env_selena

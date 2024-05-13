@@ -1,0 +1,1 @@
+http://riskprofilesundrr.org/geoserver/wfs?access_token=05cd58e70d1d11ef94f802f25c5c7296?format_options=charset%3AUTF-8&typename=geonode%3Azmb_administrative_boundaries_level1&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&access_token=05cd58e70d1d11ef94f802f25c5c7296
